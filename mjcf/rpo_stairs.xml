@@ -1,4 +1,4 @@
-<mujoco model="atom01">
+<mujoco model="rpo">
 <compiler angle="radian" meshdir="../meshes/" eulerseq="zyx"/>
 <option timestep="0.001" iterations="100" solver="PGS" gravity="0 0 -9.81">
 <flag frictionloss="enable"/>
