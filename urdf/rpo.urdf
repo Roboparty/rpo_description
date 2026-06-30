@@ -426,9 +426,9 @@
   </joint>
   <link name="torso_link">
     <inertial>
-      <origin xyz="-0.00234775 -0.00000466 0.0984446" rpy="0 0 0"/>
-      <mass value="7.58189737"/>
-      <inertia ixx="0.06904132" ixy="-0.00004044" ixz="0.00223305" iyy="0.05679531" iyz="-0.00001881" izz="0.03888628"/>
+      <origin xyz="-0.007151 -0.000080 0.109682" rpy="0 0 0"/>
+      <mass value="6.768"/>
+      <inertia ixx="0.057474726" ixy="0.000049496" ixz="0.001894736" iyy="0.051674189" iyz="-0.000022694" izz="0.033809380"/>
     </inertial>
     <visual>
       <origin xyz="0 0 0" rpy="0 0 0"/>

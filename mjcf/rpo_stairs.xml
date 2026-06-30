@@ -298,7 +298,7 @@
 </body>
 </body>
 <body name="torso_link" pos="-0.0281649492242451 0 0.0672000000054882">
-<inertial pos="-0.00234775 -0.00000466 0.0984446" mass="7.58189737" fullinertia="0.06904132 0.05679531 0.03888628 -0.00004044 0.00223305 -0.00001881"/>
+<inertial pos="-0.007151 -0.000080 0.109682" mass="6.768" fullinertia="0.057474726 0.051674189 0.033809380 0.000049496 0.001894736 -0.000022694"/>
 <joint name="torso_joint" pos="0 0 0" axis="0 0 1" range="-2.62 2.62" class="waist_joint_param"/>
 <geom type="mesh" rgba="0.752941 0.752941 0.752941 1" mesh="torso_link"/>
 <body name="left_arm_pitch_link" pos="0 0.121749999999383 0.206175860782433">
